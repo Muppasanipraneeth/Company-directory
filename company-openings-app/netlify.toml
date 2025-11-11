@@ -1,0 +1,36 @@
+## Netlify configuration for the company-openings-app
+## This config tells Netlify how to build and publish the site.
+## Branch to deploy: main (set in Netlify site settings or by pushing to main)
+
+[build]
+  # Command Netlify runs to build the site
+  command = "npm run build"
+  # Directory containing the production-ready files from `vite build`
+  publish = "dist"
+  # Directory for serverless functions (optional)
+  functions = "netlify/functions"
+  # Base directory where Netlify will run the build command (project root)
+  base = "."
+
+[context.production]
+  # Ensures production deploys use the same build/publish settings
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  # Example environment variables you can set per-site in the Netlify UI instead
+  # NODE_VERSION = "18"
+
+## Redirects for a Vite single-page app so client-side routing works.
+## Netlify supports the `[[redirects]]` array in netlify.toml.
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+# To deploy as site name "flm-demo" on Netlify:
+# - Create a new site in Netlify and connect the repository.
+# - Choose branch: "main".
+# - In Site settings -> Build & deploy -> Continuous Deployment -> Build settings,
+#   you can leave the settings here or set them explicitly in the UI.
+# - Add any environment variables in Site settings -> Build & deploy -> Environment.

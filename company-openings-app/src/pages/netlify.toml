@@ -1,8 +1,0 @@
-# This is the most important part for a React single-page app.
-# It ensures that any request that doesn't match a static file
-# is redirected to the root index.html, allowing client-side
-# routing to handle the URL.
-[redirects]
-  from = "/*"
-  to = "/index.html"
-  status = 200

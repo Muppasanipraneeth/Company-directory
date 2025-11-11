@@ -27,7 +27,7 @@ export const HomePage = () => {
             <div className="mb-8 flex justify-center">
               <div className="inline-flex items-center gap-2 px-5 py-2 bg-slate-100 rounded-full border border-slate-300">
                 <Award className="w-4 h-4 text-slate-700" />
-                <span className="text-slate-700 font-medium text-sm md:text-base">🎉 Top Indian Startup 2024</span>
+                <span className="text-slate-700 font-medium text-sm md:text-base">🎉 Top Indian Startup 2025</span>
               </div>
             </div>
 
@@ -252,7 +252,7 @@ export const HomePage = () => {
                 <div className="flex items-start gap-4">
                   <Award className="w-8 h-8 text-yellow-600 flex-shrink-0 mt-1" />
                   <div className="flex-1">
-                    <h3 className="text-2xl font-bold text-gray-900 mb-2">Top 10 Indian Startups 2024</h3>
+                    <h3 className="text-2xl font-bold text-gray-900 mb-2">Top 10 Indian Startups 2025</h3>
                     <p className="text-gray-700">
                       Recognized as one of the most innovative and impactful startups transforming the education sector in India
                     </p>
@@ -409,7 +409,7 @@ export const HomePage = () => {
           </div>
 
           <div className="border-t border-gray-800 pt-8 text-center text-gray-400">
-            <p>© 2024 Frontlines Edutech (FLM). All rights reserved.</p>
+            <p>© 2025 Frontlines Edutech (FLM). All rights reserved.</p>
             <p className="mt-2 text-sm">Celebrating Excellence in Education Technology</p>
           </div>
         </div>

@@ -176,7 +176,7 @@ export const FLMLandingPage = () => {
                 <div className="flex items-start gap-4">
                   <Award className="w-8 h-8 text-yellow-500 flex-shrink-0 mt-1" />
                   <div className="flex-1">
-                    <h3 className="text-2xl font-bold text-gray-900 mb-2">Top 10 Indian Startups 2024</h3>
+                    <h3 className="text-2xl font-bold text-gray-900 mb-2">Top 10 Indian Startups 2025</h3>
                     <p className="text-gray-600">
                       Recognized as one of the most innovative and impactful startups transforming
                       the education sector in India
@@ -361,7 +361,7 @@ export const FLMLandingPage = () => {
           </div>
 
           <div className="border-t border-gray-800 pt-8 text-center text-gray-400">
-            <p>© 2024 Frontlines Edutech (FLM). All rights reserved.</p>
+            <p>© 2025 Frontlines Edutech (FLM). All rights reserved.</p>
             <p className="mt-2 text-sm">Created as a celebration of innovation and excellence in education</p>
           </div>
         </div>
