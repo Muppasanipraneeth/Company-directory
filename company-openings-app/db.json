@@ -1,0 +1,193 @@
+{
+  "applications": [
+    {
+      "id": "faee",
+      "jobId": 0,
+      "jobTitle": "Frontend Developer Intern",
+      "company": "FrontlineMedia",
+      "platform": "linkedin",
+      "status": "interview_scheduled",
+      "appliedDate": "2025-11-11",
+      "lastUpdated": "2025-11-11",
+      "notes": "Applied via Linkdin",
+      "profileLink": "https://www.linkedin.com/company/frontlines-edutech-private-limited-flm/jobs/"
+    }
+  ],
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Senior Frontend Developer",
+      "company": "Innovatech Solutions",
+      "location": "San Francisco, CA",
+      "description": "Join our team to build next-gen web applications with React and TypeScript."
+    },
+    {
+      "id": "2",
+      "title": "Backend Engineer (Node.js)",
+      "company": "DataCore Systems",
+      "location": "New York, NY",
+      "description": "Design and implement scalable backend services and APIs."
+    },
+    {
+      "id": "3",
+      "title": "Full-Stack Engineer",
+      "company": "CloudSphere Inc.",
+      "location": "Austin, TX (Remote)",
+      "description": "Work on both frontend and backend parts of our cloud platform."
+    },
+    {
+      "id": "4",
+      "title": "UI/UX Designer",
+      "company": "PixelPerfect Creations",
+      "location": "Los Angeles, CA",
+      "description": "Create intuitive and beautiful user interfaces for our mobile and web products."
+    },
+    {
+      "id": "5",
+      "title": "DevOps Engineer",
+      "company": "InfraCloud",
+      "location": "Seattle, WA",
+      "description": "Manage and automate our CI/CD pipelines and cloud infrastructure."
+    },
+    {
+      "id": "6",
+      "title": "Junior React Developer",
+      "company": "Innovatech Solutions",
+      "location": "San Francisco, CA",
+      "description": "An exciting opportunity for a junior developer to grow with our team."
+    },
+    {
+      "id": "7",
+      "title": "Product Manager",
+      "company": "DataCore Systems",
+      "location": "New York, NY",
+      "description": "Define product vision, strategy, and roadmap for our data analytics tools."
+    },
+    {
+      "id": "8",
+      "title": "QA Automation Engineer",
+      "company": "CloudSphere Inc.",
+      "location": "Austin, TX",
+      "description": "Develop and maintain automated test suites to ensure product quality."
+    },
+    {
+      "id": "9",
+      "title": "Data Scientist",
+      "company": "PixelPerfect Creations",
+      "location": "Remote",
+      "description": "Analyze large datasets to extract meaningful insights and drive business decisions."
+    },
+    {
+      "id": "10",
+      "title": "Site Reliability Engineer",
+      "company": "InfraCloud",
+      "location": "Seattle, WA",
+      "description": "Ensure the reliability, scalability, and performance of our production systems."
+    },
+    {
+      "id": "11",
+      "title": "Frontend Intern",
+      "company": "Innovatech Solutions",
+      "location": "San Francisco, CA",
+      "description": "Paid internship for a student passionate about web development."
+    },
+    {
+      "id": "12",
+      "title": "Senior Backend Engineer (Go)",
+      "company": "DataCore Systems",
+      "location": "New York, NY",
+      "description": "Build high-performance microservices using Go."
+    },
+    {
+      "id": "13",
+      "title": "Cloud Architect",
+      "company": "CloudSphere Inc.",
+      "location": "Remote",
+      "description": "Design and oversee the company's cloud computing strategy."
+    },
+    {
+      "id": "14",
+      "title": "Lead UI/UX Designer",
+      "company": "PixelPerfect Creations",
+      "location": "Los Angeles, CA",
+      "description": "Lead the design team and establish design principles."
+    },
+    {
+      "id": "15",
+      "title": "Security Engineer",
+      "company": "InfraCloud",
+      "location": "Seattle, WA",
+      "description": "Protect our systems and data from security threats."
+    },
+    {
+      "id": "16",
+      "title": "Mid-Level React Developer",
+      "company": "Innovatech Solutions",
+      "location": "Remote",
+      "description": "Contribute to our core product features using React."
+    },
+    {
+      "id": "17",
+      "title": "Technical Writer",
+      "company": "DataCore Systems",
+      "location": "New York, NY",
+      "description": "Create clear and concise documentation for our APIs and products."
+    },
+    {
+      "id": "18",
+      "title": "Junior Full-Stack Engineer",
+      "company": "CloudSphere Inc.",
+      "location": "Austin, TX",
+      "description": "A great role for an early-career engineer to learn and contribute."
+    },
+    {
+      "id": "19",
+      "title": "Graphic Designer",
+      "company": "PixelPerfect Creations",
+      "location": "Los Angeles, CA",
+      "description": "Create marketing materials and visual assets."
+    },
+    {
+      "id": "20",
+      "title": "Database Administrator",
+      "company": "InfraCloud",
+      "location": "Seattle, WA",
+      "description": "Manage and maintain our production databases."
+    },
+    {
+      "id": "21",
+      "title": "Mobile Developer (React Native)",
+      "company": "Innovatech Solutions",
+      "location": "Remote",
+      "description": "Build cross-platform mobile apps."
+    },
+    {
+      "id": "22",
+      "title": "Data Engineer",
+      "company": "DataCore Systems",
+      "location": "New York, NY",
+      "description": "Build and maintain data pipelines."
+    },
+    {
+      "id": "23",
+      "title": "Solutions Architect",
+      "company": "CloudSphere Inc.",
+      "location": "Austin, TX",
+      "description": "Work with clients to design solutions on our platform."
+    },
+    {
+      "id": "24",
+      "title": "UX Researcher",
+      "company": "PixelPerfect Creations",
+      "location": "Remote",
+      "description": "Conduct user research to inform product design."
+    },
+    {
+      "id": "25",
+      "title": "Network Engineer",
+      "company": "InfraCloud",
+      "location": "Seattle, WA",
+      "description": "Design and manage our corporate and production networks."
+    }
+  ]
+}
